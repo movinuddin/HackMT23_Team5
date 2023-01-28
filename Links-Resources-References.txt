@@ -18,3 +18,9 @@ HackMT Teams
 Connecting front end javscript to upload to AWS S3 Bucket
 https://medium.com/@shresthshruti09/uploading-files-in-aws-s3-bucket-through-javascript-sdk-with-progress-bar-d2a4b3ee77b5
 
+8-Minute Creating Your First React Website with Typescript - YouTube
+https://www.youtube.com/watch?v=G48m82q5nxQ
+
+React typescript setup github
+https://github.com/NuttareeB/react-website-template
+
