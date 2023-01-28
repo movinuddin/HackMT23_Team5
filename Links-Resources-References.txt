@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=G48m82q5nxQ
 React typescript setup github
 https://github.com/NuttareeB/react-website-template
 
+Web Server
+XAMPP
+
