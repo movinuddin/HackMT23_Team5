@@ -2,6 +2,19 @@
 | File for listing references and resources |
 ---------------------------------------------
 
+HackMT Teams
+------------
+1. Creating a dataset not recognized by chat GPT and then getting it to recognize it.
+2. Genesco Company: Application to manage information updates for Donors
+3. Interior design game to redecorate the KOM building
+4. Natural Language Processor to go over reddit post
+5. App to classify if documents are confidential or not
+6. Application that provides a list of evenst for a given are and displays them on google maps.
+7. Python flow control graphs for emulators and binary analysis
+8. VR mine sweep
+9. Racing game
+
+
 Connecting front end javscript to upload to AWS S3 Bucket
 https://medium.com/@shresthshruti09/uploading-files-in-aws-s3-bucket-through-javascript-sdk-with-progress-bar-d2a4b3ee77b5
 
