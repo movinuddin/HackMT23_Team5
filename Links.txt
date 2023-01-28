@@ -1,0 +1,7 @@
+---------------------------------------------
+| File for listing references and resources |
+---------------------------------------------
+
+Connecting front end javscript to upload to AWS S3 Bucket
+https://medium.com/@shresthshruti09/uploading-files-in-aws-s3-bucket-through-javascript-sdk-with-progress-bar-d2a4b3ee77b5
+
